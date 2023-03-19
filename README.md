@@ -13,6 +13,6 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eigu47&show_icons=true&locale=en&layout=compact&theme=radical" alt="eigu47" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eigu47&theme=radical&mode=weekly" alt="eigu47" /></p>
+<a href="https://github.com/eigu47?tab=repositories" rel="noreferrer"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eigu47&show_icons=true&locale=en&layout=compact&theme=radical" alt="eigu47" /></a>
+<a href="https://github.com/eigu47?tab=repositories" rel="noreferrer"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eigu47&theme=radical&mode=weekly" alt="eigu47" /></a>
 
