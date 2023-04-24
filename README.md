@@ -1,5 +1,8 @@
 <h1 align="center">👋 I'm Eiguchi Pablo</h1>
-<h3 align="center">Self-Taught Developer</h3>
+<h3 align="left">Hello!</h3>
+<p>I'm a Japanese-Argentinian front-end developer specializing in React and TypeScript. Currently based on Kawasaki, Japan.</p>
+<h3 align="left">こんにちは！</h3>
+<p>日系アルゼンチン人のフロントエンドウェブ開発者です。React、TypeScriptがメインの言語です。</p>
 <h3 align="left">🛠 Languages and Tools:</h3>
 
 <p align="left">
