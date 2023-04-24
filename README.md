@@ -1,4 +1,4 @@
-<h1 align="center">👋 I'm Eiguchi Pablo</h1>
+<h1 align="center">👋 I'm Eiguchi Pablo - 栄口パブロ</h1>
 <h3 align="left">Hello!</h3>
 <p>I'm a Japanese-Argentinian front-end developer specializing in React and TypeScript. Currently based on Kawasaki, Japan.</p>
 <h3 align="left">こんにちは！</h3>
