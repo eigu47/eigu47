@@ -3,6 +3,8 @@
 <p>I'm a Japanese-Argentinian front-end developer specializing in React and TypeScript. Currently based on Kawasaki, Japan.</p>
 <h3 align="left">こんにちは！</h3>
 <p>日系アルゼンチン人のフロントエンドウェブ開発者です。React、TypeScriptがメインの言語です。</p>
+<br/>
+<p>Check my <a href="https://www.eiguchipablo.dev/" target="_blank" rel="noreferrer">portfolio</a>.</p>
 <h3 align="left">🛠 Languages and Tools:</h3>
 
 <p align="left">
