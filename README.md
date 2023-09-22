@@ -12,16 +12,16 @@
 
 <hr>
 
-<p>Check out my <a href="https://www.eiguchipablo.dev/" target="_blank" rel="noreferrer"><strong>portfolio</strong></a>.<p>
+<p>Check out my <a href="https://www.eiguchipablo.dev/" target="_blank" rel="noreferrer" title="www.eiguchipablo.dev"><strong>portfolio</strong></a>.<p>
 <div align="center">
   <a href="https://www.eiguchipablo.dev" target="_blank">
-    <img align="center" alt="Thumbnail" width="50%" height="50%" src="https://github.com/eigu47/portfolio/blob/main/public/og-image.jpg">
+    <img align="center" alt="Thumbnail" width="50%" height="50%" title="www.eiguchipablo.dev" src="https://github.com/eigu47/portfolio/blob/main/public/og-image.jpg">
   </a>
 </div>
 
 <hr>
 
-<h3 align="left">🛠 Languages and Tools:</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Javascript">
