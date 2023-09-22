@@ -9,8 +9,18 @@
   日系アルゼンチン人のフロントエンド開発者です。ReactとTypeScriptを中心に活動しています。 <br>
   技術を学び続け、開発者としてのスキルを向上させることを目指しています。
 </p>
-<br/>
-<p>Check out my <a href="https://www.eiguchipablo.dev/" target="_blank" rel="noreferrer">portfolio</a>.</p>
+
+<hr>
+
+<p>Check out my <a href="https://www.eiguchipablo.dev/" target="_blank" rel="noreferrer"><strong>portfolio</strong></a>.<p>
+<div align="center">
+  <a href="https://www.eiguchipablo.dev" target="_blank">
+    <img align="center" alt="Thumbnail" width="50%" height="50%" src="https://github.com/eigu47/portfolio/blob/main/public/og-image.jpg">
+  </a>
+</div>
+
+<hr>
+
 <h3 align="left">🛠 Languages and Tools:</h3>
 
 <p align="left">
