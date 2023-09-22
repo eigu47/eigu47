@@ -1,8 +1,14 @@
 <h1 align="center">👋 I'm Eiguchi Pablo - 栄口パブロ</h1>
 <h3 align="left">Hello!</h3>
-<p>I'm a Japanese-Argentinian front-end developer specializing in React and TypeScript. Currently based on Kawasaki, Japan.</p>
+<p>
+  I'm a Japanese-Argentinian front-end developer mainly focuesd on React and TypeScript. Currently based on Kawasaki, Japan. <br>
+  I like to keep learning new technologies and keep improving as developer.
+</p>
 <h3 align="left">こんにちは！</h3>
-<p>日系アルゼンチン人のフロントエンド開発者です。React、TypeScriptがメインの言語です。</p>
+<p>
+  日系アルゼンチン人のフロントエンド開発者です。ReactとTypeScriptを中心に活動しています。 <br>
+  技術を学び続け、開発者としてのスキルを向上させることを目指しています。
+</p>
 <br/>
 <p>Check out my <a href="https://www.eiguchipablo.dev/" target="_blank" rel="noreferrer">portfolio</a>.</p>
 <h3 align="left">🛠 Languages and Tools:</h3>
