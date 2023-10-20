@@ -23,8 +23,8 @@
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" title="Javascript">
+<div align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/" target="_blank" rel="noreferrer" title="Javascript">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="40" height="40"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" title="Typescript">
@@ -45,7 +45,16 @@
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer" title="React Native">
     <img src="https://raw.githubusercontent.com/kristerkari/react-native-svg-transformer/HEAD/images/react-native-logo.png" alt="React Native" width="40" height="40" />
   </a>
-</p>
+  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer" tittle="NodeJS">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+  </a>
+    <a href="https://expressjs.com/" target="_blank" rel="noreferrer" tittle="Express">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
+  </a>
+  <a href="https://laravel.com/" target="_blank" rel="noreferrer" tittle="Laravel">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  </a>
+</div>
 
 <div align="center">
   <a href="https://github.com/eigu47?tab=repositories" rel="noreferrer">
@@ -55,5 +64,3 @@
     <img align="center" src="https://streak-stats.demolab.com?user=eigu47&theme=radical&mode=weekly" alt="eigu47" />
   </a>
 </div>
-
-
