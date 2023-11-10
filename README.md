@@ -51,6 +51,9 @@
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer" tittle="Express">
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/>
   </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" tittle="MySQL">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer" tittle="Laravel">
     <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
   </a>
