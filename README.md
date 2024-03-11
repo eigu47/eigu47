@@ -37,7 +37,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer" title="Tailwind">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" height="40"/>
   </a>
   <a href="https://threejs.org/" target="_blank" rel="noreferrer" title="Three.js">
     <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
@@ -53,9 +53,6 @@
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" tittle="MySQL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Laravel" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer" tittle="Laravel">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
   </a>
 </div>
 
