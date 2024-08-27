@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Eiguchi Pablo - 栄口パブロ</h1>
 <h3 align="left">Hello!</h3>
 <p>
-  I'm a Japanese-Argentinian front-end developer mainly focused on React and TypeScript. Currently based on Kawasaki, Japan. <br>
+  I'm a Japanese-Argentinian front-end developer mainly focused on React and TypeScript. Currently based on Yokohama, Japan. <br>
   I like to learn new technologies and keep improving as developer.
 </p>
 <h3 align="left">こんにちは！</h3>
@@ -58,9 +58,12 @@
 
 <div align="center">
   <a href="https://github.com/eigu47?tab=repositories" rel="noreferrer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eigu47&show_icons=true&locale=en&layout=compact&theme=radical" alt="eigu47" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eigu47&show_icons=true&locale=en&layout=compact&theme=radical" alt="github languages" />
   </a>
   <a href="https://github.com/eigu47?tab=repositories" rel="noreferrer">
-    <img align="center" src="https://streak-stats.demolab.com?user=eigu47&theme=radical&mode=weekly" alt="eigu47" />
+    <img align="center" src="https://streak-stats.demolab.com?user=eigu47&theme=radical&mode=weekly" alt="github activity" />
+  </a>
+  <a href="https://leetcode.com/eigu47/" rel="noreferrer">
+    <img align="center" src="https://leetcard.jacoblin.cool/eigu47?theme=dark" alt="leetcode stats" />
   </a>
 </div>
