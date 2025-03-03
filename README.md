@@ -54,6 +54,9 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" tittle="MySQL">
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="Laravel" width="40" height="40"/>
   </a>
+    <a href="https://go.dev/" target="_blank" rel="noreferrer" tittle="Golang">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" alt="Laravel" width="40" height="40"/>
+  </a>
 </div>
 
 <div align="center">
