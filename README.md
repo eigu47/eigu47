@@ -1,12 +1,12 @@
 <h1 align="center">👋 I'm Eiguchi Pablo - 栄口パブロ</h1>
 <h3 align="left">Hello!</h3>
 <p>
-  I'm a Japanese-Argentinian front-end developer mainly focused on React and TypeScript. Currently based on Yokohama, Japan. <br>
+  I'm a Japanese-Argentinian front-end developer mainly focused on Next/React and TypeScript. Currently based on Yokohama, Japan. <br>
   I like to learn new technologies and keep improving as developer.
 </p>
 <h3 align="left">こんにちは！</h3>
 <p>
-  日系アルゼンチン人のフロントエンド開発者です。ReactとTypeScriptを中心に活動しています。 <br>
+  日系アルゼンチン人のフロントエンド開発者です。Next/ReactとTypeScriptを中心に活動しています。 <br>
   技術を学び続け、開発者としてのスキルを向上させることを目指しています。
 </p>
 
